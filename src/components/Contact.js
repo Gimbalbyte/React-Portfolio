@@ -29,14 +29,6 @@ class Contact extends Component {
             </ul>
           </div>
         </Fade>
-
-        <span className="footer">
-          Alternate website design
-          <a href="https://christopherneill.github.io/latestportfolio/">
-            {" "}
-            Christopher's original website
-          </a>
-        </span>
       </div>
     );
   }
